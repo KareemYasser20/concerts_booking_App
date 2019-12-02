@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50573311135",
+    "firebase_url": "https://concertsbookingapp.firebaseio.com",
+    "project_id": "concertsbookingapp",
+    "storage_bucket": "concertsbookingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50573311135:android:003ba781032c3521fd36aa",
+        "android_client_info": {
+          "package_name": "com.example.concerts_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50573311135-0c3f4h12msd1t250b69up36q4gqo0e6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.concerts_booking_app",
+            "certificate_hash": "98194dbcc73afaf3d40c079029f674a8f75ccc60"
+          }
+        },
+        {
+          "client_id": "50573311135-odn3ovkbp85bdnt0qhqv7fihos7khs51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuNl0KVFCavDY1Fikykiasm8rU_UNpL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50573311135-odn3ovkbp85bdnt0qhqv7fihos7khs51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

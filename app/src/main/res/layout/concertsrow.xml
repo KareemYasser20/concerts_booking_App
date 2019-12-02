@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <ImageView
+        app:layout_constraintBottom_toTopOf="@+id/concert_band_name"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/concert_band_image"
+        android:layout_width="180dp"
+        android:layout_height="220dp"
+        android:src="@drawable/background"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="40dp"
+        android:scaleType="fitXY"
+
+        />
+    <TextView
+        app:layout_constraintBottom_toTopOf="@+id/concert_date"
+        app:layout_constraintTop_toBottomOf="@+id/concert_band_image"
+        app:layout_constraintStart_toStartOf="parent"
+        android:id="@+id/concert_band_name"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:text="Masar Ejbari"
+        android:textSize="20dp"
+        android:textColor="#8B8282"
+        android:background="#FFFFFF"
+        android:layout_marginLeft="16dp"
+        android:gravity="center"
+        />
+    <TextView
+        app:layout_constraintTop_toBottomOf="@+id/concert_band_name"
+        app:layout_constraintStart_toStartOf="parent"
+        android:id="@+id/concert_date"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:text="7 PM, 26 October"
+        android:layout_marginLeft="16dp"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:background="#C41735BE"
+        android:gravity="center"
+        />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

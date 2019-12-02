@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Concerts_booking_App</string>
+    <string name="genuva_app">Genuva App</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">PassWord</string>
+    <string name="login_btn_homepage">Login</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="do_not_have_account">Do not have account?</string>
+    <string name="sign_up_btn_home">Sign Up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_by_phone_number">Login by Phone number</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="enter_code_received">Enter Code Received</string>
+    <string name="login">logIn</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="get_verification_code">Get verification Code</string>
+    <string name="facebook_app_id">469093797007573</string>
+    <string name="fb_login_protocol_scheme">fb469093797007573</string>
+    <string name="login_btn_Adminpage">Login</string>
+</resources>
